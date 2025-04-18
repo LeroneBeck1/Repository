@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 Im inspiring to be a software engineer **a sofware development team**
+ 🔭 Im inspiring to be a Cyber Security Analyst **SOC Analyst**
  
- 🌱 I’m currently learning **sql, Python, AWS Bash**
+ 🌱 I’m currently learning **SQL, Python, Microsoft Azure**
 
-💬 Ask me about **python, bash, or sql... or anything [here](https://github.com/LeroneBeck1/Learning_coding.git)**
+💬 Ask me about **SQL, Python, Microsoft Azure... or anything [here](https://github.com/LeroneBeck1/Learning_coding.git)**
 
 ⚡ Fun fact **Lego mini-figures have the largest population on Earth!**
 
